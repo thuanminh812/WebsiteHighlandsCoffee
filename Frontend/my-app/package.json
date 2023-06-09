@@ -1,0 +1,40 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@mdi/font": "5.9.55",
+    "@splidejs/vue-splide": "^0.6.12",
+    "bootstrap": "^5.2.3",
+    "bootstrap-vue": "^2.23.1",
+    "core-js": "^3.8.3",
+    "roboto-fontface": "*",
+    "swiper": "^9.2.4",
+    "validator": "^13.9.0",
+    "vue": "^3.2.47",
+    "vue-agile": "^2.0.0",
+    "vue-awesome-swiper": "^5.0.1",
+    "vue-carousel": "^0.18.0",
+    "vue-router": "^4.0.3",
+    "vue-slick-carousel": "^1.0.6",
+    "vuetify": "^3.0.0-beta.0",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "vue-cli-plugin-vuetify": "~2.5.8",
+    "webpack-plugin-vuetify": "^2.0.0-alpha.0"
+  }
+}
